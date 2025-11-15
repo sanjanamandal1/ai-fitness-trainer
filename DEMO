@@ -1,0 +1,19 @@
+Live Video Demo: http://localhost:5000/video-demo
+
+API Documentation: Available via endpoints below
+
+ML Analytics: Real-time form and fatigue analysis
+
+ API Endpoints
+GET / - System status
+
+GET /video-demo - Live video interface
+
+GET /api/camera/start - Start camera & ML analysis
+
+GET /api/analyze/<exercise> - ML exercise analysis
+
+GET /api/stats - Workout statistics
+
+GET /api/camera/feed - Live video stream
+
