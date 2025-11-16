@@ -30,8 +30,8 @@ A sophisticated fitness coaching platform that uses computer vision and machine 
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/ai-fitness-coach.git
-cd ai-fitness-coach/backend
+git clone https://github.com/your-username/ai-fitness-trainergit
+cd ai-fitness-trainer/backend
 
 # Install dependencies
 pip install -r requirements.txt
